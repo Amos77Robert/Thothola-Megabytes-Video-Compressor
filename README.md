@@ -1,6 +1,6 @@
 # Thothola Megabytes - Video Compressor
 
-**Reduce video file size by up to 90% while maintaining quality. Simple, fast, and effective.**
+**Reduce video file size by up to 90% while maintaining quality. Simple, fast, and effective. Enjoy the robotic magic of processing**
 
 ## What It Does
 
