@@ -31,10 +31,10 @@ Thothola Megabytes takes large video files and makes them small without noticeab
 
 **Works with:** MP4, AVI, MOV, MKV, WMV, FLV, WEBM, M4V, MPEG
 
-### Original Video Frame - shoplifting
+### Robotic Compression  Starting
 ![Robotic Compression  Starting](compression_start.png)
 
-### Annotated shoplifting action
+### Robotic Compression Progress
 ![Robotic Compression Progress](compression_progress.png)
 
 ## How to Use
