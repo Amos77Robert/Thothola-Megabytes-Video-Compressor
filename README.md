@@ -1,4 +1,4 @@
-# 🎥 Thothola Megabytes - Video Compressor
+# Thothola Megabytes - Video Compressor
 
 **Reduce video file size by up to 90% while maintaining quality. Simple, fast, and effective.**
 
@@ -8,11 +8,11 @@ Thothola Megabytes takes large video files and makes them small without noticeab
 
 ## Key Features
 
-- **Up to 90% size reduction** — Turn a 1GB video into 100MB
-- **Simple interface** — Load, click, done
-- **Multiple format support** — MP4, AVI, MOV, MKV, WMV, FLV, WEBM
-- **Resolution presets** — 4K down to 480p with one click
-- **H.265 & H.264** — Best compression or best compatibility
+- **Up to 90% size reduction**: Turn a 1GB video into 100MB
+- **Simple interface**: Load, click, done
+- **Multiple format support**: MP4, AVI, MOV, MKV, WMV, FLV, WEBM
+- **Resolution presets**: 4K down to 480p with one click
+- **H.265 & H.264**: Best compression or best compatibility
 - **No technical knowledge required**
 
 ## Who Is This For?
