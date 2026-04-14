@@ -33,11 +33,11 @@ Thothola Megabytes takes large video files and makes them small without noticeab
 
 ## How to Use
 
-1. **Download and install** — Run the setup file
-2. **Open the app** — Find it in your Start Menu or Dekstop shortcut
-3. **Load your video** — Click "Load Video"
-4. **Choose settings** — Or leave defaults
-5. **Click Start Compression** — Wait for completion while enjoying robotic magic of processing
+1. **Download and install**:  Run the setup file
+2. **Open the app**:  Find it in your Start Menu or Dekstop shortcut
+3. **Load your video**:  Click "Load Video"
+4. **Choose settings**:  Or leave defaults
+5. **Click Start Compression**: Wait for completion while enjoying robotic magic of processing
 
 That's it. Your compressed video is ready.
 
@@ -56,4 +56,4 @@ Having issues? Check the **Logs Info** tab inside the app or open an issue on Gi
 
 ---
 
-**Version 1.0.0** — Free for everyone. No subscriptions. No watermarks.
+**Version 1.0.0** - Free for everyone. No subscriptions. No watermarks.
